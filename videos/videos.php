@@ -116,7 +116,7 @@ require_once "../php/config.php";
                     <div class="embed-responsive embed-responsive-16by9">
                             <iframe class="embed-responsive-item" controls="true" width="640" height="480" src="./rpaFormularDASIAHotel.mp4" title="Formular RPA - Inregistrare rezervare" frameborder="0" allowfullscreen></iframe>
                     </div> 
-                    <h4 class="text-center my-5"><a href="https://localhost/DasiaHotelBooking/videos/rpaFormularDASIAHotel.mp4" >Open MP4 in browser from directory.</a></h4>
+                    <h4 class="text-center my-5"><a href="./rpaFormularDASIAHotel.mp4" >Open MP4 in browser from directory.</a></h4>
                 </div>
             </div>
             <div class="row">
@@ -129,7 +129,7 @@ require_once "../php/config.php";
                     <div class="embed-responsive embed-responsive-16by9">
                             <iframe class="embed-responsive-item" controls="true" width="640" height="480" src="./rpaLoginDASIAHotel.mp4" title="Login RPA - Logare in platforma" frameborder="0" allowfullscreen></iframe>
                     </div> 
-                    <h4 class="text-center my-5"><a href="https://localhost/DasiaHotelBooking/videos/rpaLoginDASIAHotel.mp4" >Open MP4 in browser from directory.</a></h4>
+                    <h4 class="text-center my-5"><a href="./rpaLoginDASIAHotel.mp4" >Open MP4 in browser from directory.</a></h4>
                 </div>
             </div>
             
